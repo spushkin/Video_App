@@ -1,14 +1,18 @@
 # CSC 317 Course Project - Video App
 
-A Full Stack Video management application (JavaScript, NodeJS, MySQL) where we can create an account, upload and manage videos, play videos, and post comments.
+A Full Stack Video management application (JavaScript, NodeJS, MySQL) where we can create an account, upload and manage videos, play videos, and post comments.  
 
+<img width="1512" alt="Screen Shot 2023-06-14 at 6 02 31 PM" src="https://github.com/spushkin/Video_App/assets/42389366/e1bb5b8d-5750-4298-89b1-e09136054892">
+
+## Set up the development environment
 
 1. Clone the repo;
 2. Download and install NodeJs/NPM;
 3. Download and install MySQL Server;
 
-## Build Instructions
 
+## Build Instructions
+ 
 1. <code>cd ./Video-App/application/</code>
 2. <code>npm install</code>
 3. <code>npm run builddb</code>
@@ -18,4 +22,4 @@ A Full Stack Video management application (JavaScript, NodeJS, MySQL) where we c
 1. <code>Run npm start</code>
 
 ## Build and run:
-<code>npm run startddb</code>
+1. <code>npm run startddb</code>
