@@ -1,0 +1,28 @@
+<div id="post-{{id}}" class="card bg-light">
+  <div class="card-video-wrapper">
+    <video class="card-video-top" width="100%" height="auto" controls>
+      <source src="/{{thumbnail}}" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">{{title}}</h5>
+    <p class="card-text">{{description}}</p>
+
+    <div class="btn-group" role="group">
+      <a href="/post/{{id}}" class="btn btn-secondary">Post Details</a>
+
+      {{#if deleteBtn}}
+        <a
+          href="/delete/post/{{id}}"
+          class="delete-btn btn btn-danger"
+          onclick="confirmDelete(event)"
+        >Delete Post</a>
+
+      {{/if}}
+
+    </div>
+
+  </div>
+</div>
