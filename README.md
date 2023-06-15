@@ -4,6 +4,8 @@ A Full Stack Video management application (JavaScript, NodeJS, MySQL) where we c
 
 <img width="1512" alt="Screen Shot 2023-06-14 at 6 02 31 PM" src="https://github.com/spushkin/Video_App/assets/42389366/e1bb5b8d-5750-4298-89b1-e09136054892">
 
+<img width="1512" alt="Screen Shot 2023-06-14 at 6 04 13 PM" src="https://github.com/spushkin/Video_App/assets/42389366/b4ddeb94-6d81-4f15-904c-f1d12853da21">
+
 ## Set up the development environment
 
 1. Clone the repo;
